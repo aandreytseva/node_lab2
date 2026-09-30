@@ -1,0 +1,21 @@
+{
+  "name": "lab2-andreiteva-anastasia",
+  "version": "1.0.0",
+  "description": "Laboratory work #2 - REST API on Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest",
+    "api",
+    "lab2"
+  ],
+  "author": "Andreiteva Anastasia, IAFR-2302",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
